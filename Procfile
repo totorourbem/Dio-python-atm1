@@ -1,1 +1,1 @@
-web: python SysATM.py
+web: python app.py
