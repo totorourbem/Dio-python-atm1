@@ -1,4 +1,4 @@
-# DIO - Python ATM 2.0.0 
+# DIO - Python ATM 2.0.1 
 
 ![Python 3](https://img.shields.io/static/v1?label=Python3&labelColor=navy&message=ok!✔&style=plastic&color=lightblue&logo=PYTHON&logoColor=yellow)
 ![Netlify](https://img.shields.io/static/v1?label=Netlify&labelColor=black&message=deploy_soon⏳&color=orange&style=plastic&logo=netlify)
@@ -13,6 +13,12 @@
 
 <p align="justify">
   
+  _2.0.1 2023.09.23_
+  
+  Correção de informações no README.md, Atualização de configuações para deploy via heroku.
+  
+  <hr>
+  
   _2.0.0 2023.08.04_
   
   Segunda versão do código, conforme segundo desafio de Python dos Cursos a DIO, ulilizando-se de funções.
@@ -25,13 +31,21 @@
 
 ## Funcionalidades
 
+_2.0.1 2023.09.23_
+  
+✔ Implementado deploy coomn Heroku; 
+
+✔ Corrigido informações de dependencias; 
+  
+  <hr>
+
 _2.0.0 2023.08.04_
   
 ✔ Implementadas funções _(def)_ para as operações da versão 1.0.0; 
 
 ✔ Novas operações: Saldo em tela, cadastrar cooperado, abrir e listar conta; 
 
-✔ Função modular de mensagem, colocando os asteristos para legibilidade, sem tanta repetição no código, com temporização com o uso de 📚 time;
+✔ Função modular de mensagem, colocando os asteristos para legibilidade, sem tanta repetição no código, com temporização com o uso de time;
 
 ✔ Alterada a função de saque para mlehor legibilidade e compreensão;
 
@@ -51,14 +65,13 @@ _1.0.0 2023.07.23_
 
 ## Layout ou Deploy da Aplicação :dash:
 
-
-Em implementação...
+Aqui!
 
 ## Pré-requisitos
 
 - 🐍Python 3
 - 📚 Datetime
-- 📚 Time;
+  
 
 ## Como rodar a aplicação 
 
