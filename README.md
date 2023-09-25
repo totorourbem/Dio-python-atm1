@@ -66,7 +66,9 @@ _1.0.0 2023.07.23_
 
 ## Layout ou Deploy da Aplicação :dash:
 
+
 https://www.youtube.com/watch?v=_juCSH-Aqeg
+
 
 ## Pré-requisitos
 
