@@ -1,9 +1,10 @@
 # DIO - Python ATM 2.0.1 
 
 ![Python 3](https://img.shields.io/static/v1?label=Python3&labelColor=navy&message=ok!✔&style=plastic&color=lightblue&logo=PYTHON&logoColor=yellow)
-![Netlify](https://img.shields.io/static/v1?label=Netlify&labelColor=black&message=deploy_soon⏳&color=orange&style=plastic&logo=netlify)
+![Netlify](https://img.shields.io/static/v1?label=Netlify&labelColor=black&message=error-deploy_on_yt_▶&color=red&style=plastic&logo=netlify)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?label=⚖License&logo=balance-scale&logoColor=white&style=plastic)](https://opensource.org/licenses/MIT)
 [![dio.me](https://img.shields.io/static/v1?label=⚫Dio.me&labelColor=black&message=ok!✔&color=purple&style=plastic&&logoXcolor=white)](https://web.dio.me/users/olhodelugarnenhum?tab=skills)
+
 
 ## Status do Projeto
 
@@ -15,7 +16,7 @@
   
   _2.0.1 2023.09.23_
   
-  Correção de informações no README.md, Atualização de configuações para deploy via heroku.
+  Correção de informações no README.md, Atualização de configuações para deploy em video.
   
   <hr>
   
@@ -65,7 +66,7 @@ _1.0.0 2023.07.23_
 
 ## Layout ou Deploy da Aplicação :dash:
 
-Aqui!
+https://www.youtube.com/watch?v=_juCSH-Aqeg
 
 ## Pré-requisitos
 
